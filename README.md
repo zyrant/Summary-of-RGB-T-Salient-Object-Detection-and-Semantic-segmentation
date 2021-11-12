@@ -1,10 +1,10 @@
 # RGB-T-Salient-Object-Detection-Summary
 
-Provide a summary of RGB-T-Salient-Object-Detection(**Code and Paper**). 
+Provide a summary of RGB-T-Salient-Object-Detection(**Paper and more**). 
 
 --------------------------------------------------------------------------------------
 
-:heavy_exclamation_mark:  **create the summary**: 2011.11.12               
+:heavy_exclamation_mark: **2021.11.12 create the summary**      
 
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------

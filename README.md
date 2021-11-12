@@ -5,17 +5,10 @@ Provide a summary of RGB-T-Salient-Object-Detection(**Code and Paper**).
 --------------------------------------------------------------------------------------
 
 :heavy_exclamation_mark:  **2D SOD**: Add six ICCV21 papers, one ACMM21 paper                 
- :heavy_exclamation_mark:  **3D SOD**: Add one TIP21 paper and two ACMM21 papers and two ICCV21 papers   
- :heavy_exclamation_mark:  **LF SOD**: Add three ICCV21, IEEE TCyB21 and ACMM21 papers   
- :heavy_exclamation_mark:  **Video SOD** : Add four CVPR21, ACMM21 and ICCV21 papers. 
 
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
-
-# Overall <a id="Overall" class="anchor" href="Overall" aria-hidden="true"><span class="octicon octicon-link"></span></a>
-![avatar](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-/blob/master/SOD-2019.7.23.jpg)
-    
-# 2D RGB Saliency Detection <a id="2D RGB Saliency Detection" class="anchor" href="2D RGB Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
+  
 
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 

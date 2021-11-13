@@ -6,7 +6,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
-:heavy_exclamation_mark: **2021.11.12 Create the summary.** 
+🚩: **2021.11.12 Create the summary.** 
 
 --------------------------------------------------------------------------------------
 # RGB-T Salient Object Detection

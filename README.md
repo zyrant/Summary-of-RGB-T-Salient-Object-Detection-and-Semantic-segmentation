@@ -98,7 +98,7 @@ Recommend  the evaluation toolbox of [GMNet](https://github.com/Jinfu0913/GMNet)
 --------------------------------------------------------------------------------------
 
 # Acknowledgement
-The collection of this summary is thanks to [Zhun Li](https://github.com/lz118/RGBT-Salient-Object-Detection) and [jinfu Liu](https://github.com/Jinfu0913/GMNet).
+The collection of this summary is thanks to [Zhun Li](https://github.com/lz118/RGBT-Salient-Object-Detection) and [jinfu Liu](https://github.com/Jinfu0913/GMNet). <br>
 The summary template comes from [ji wei](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
 
 --------------------------------------------------------------------------------------

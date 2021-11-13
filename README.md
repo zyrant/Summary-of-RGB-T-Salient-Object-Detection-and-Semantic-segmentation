@@ -68,7 +68,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 ## 2019       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **RAL** | RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes | [Paper](https://ieeexplore.ieee.org/document/8666745)/Code
+01 | **RAL** | RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes | [Paper](https://ieeexplore.ieee.org/document/8666745)/[Code](https://github.com/yuxiangsun/RTFNet)
 
 ## 2020      
 **No.** | **Pub.** | **Title** | **Links** 

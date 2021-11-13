@@ -92,15 +92,15 @@ Recommend  the evaluation toolbox of [GMNet](https://github.com/Jinfu0913/GMNet)
 --------------------------------------------------------------------------------------
 
 ## Other Summary
-**RGBD SOD Summary1：** https://github.com/jiwei0921/SOD-CNNs-based-code-summary- <br>
-**RGBD SOD Summary2：** https://github.com/taozh2017/RGBD-SODsurvey <br>
-**RGBT SOD Summary：** https://github.com/lz118/RGBT-Salient-Object-Detection <br>
+**RGBD SOD Summary1：** https://github.com/jiwei0921/SOD-CNNs-based-code-summary-.<br>
+**RGBD SOD Summary2：** https://github.com/taozh2017/RGBD-SODsurvey. <br>
+**RGBT SOD Summary：** https://github.com/lz118/RGBT-Salient-Object-Detection. <br>
 
 --------------------------------------------------------------------------------------
 
 # Acknowledgement
 The collection of this summary is thanks to [Zhun Li](https://github.com/lz118/RGBT-Salient-Object-Detection) and [jinfu Liu](https://github.com/Jinfu0913/GMNet). <br>
-The summary template comes from [ji wei](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
+The summary template comes from [ji wei](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-).
 
 --------------------------------------------------------------------------------------
 

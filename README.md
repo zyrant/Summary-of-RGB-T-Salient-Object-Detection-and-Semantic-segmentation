@@ -82,23 +82,26 @@ You can found in [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_mult
 --------------------------------------------------------------------------------------
 
 ## Evaluation 
-** RGBT SOD Saliency Evaluation**  <br>
+**RGBT SOD Saliency Evaluation**  <br>
 python version: [here(CPU)](https://github.com/lartpang/PySODEvalToolkit) and [here(GPU)](https://github.com/zyjwuyan/SOD_Evaluation_Metrics)   <br>
 matlab version:  [here(include weighted F)](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) and [here](http://dpfan.net/d3netbenchmark/) <br>
-** RGBT Semantic segmentation Evaluation**  <br>
+**RGBT Semantic segmentation Evaluation**  <br>
 Recommend  the evaluation toolbox of [GMNet](https://github.com/Jinfu0913/GMNet) <br>
 
 --------------------------------------------------------------------------------------
 
-## other Summary
+## Other Summary
 **RGBD SOD Summary1：** https://github.com/jiwei0921/SOD-CNNs-based-code-summary- <br>
 **RGBD SOD Summary2：** https://github.com/taozh2017/RGBD-SODsurvey <br>
 **RGBT SOD Summary：** https://github.com/lz118/RGBT-Salient-Object-Detection <br>
+
+--------------------------------------------------------------------------------------
 
 # Acknowledgement
 The collection of this summary is thanks to [Zhun Li](https://github.com/lz118/RGBT-Salient-Object-Detection) and [jinfu Liu](https://github.com/Jinfu0913/GMNet).
 The summary template comes from [ji wei](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
 
+--------------------------------------------------------------------------------------
 
 ## Thanks to the above authors for their excellent work！
 

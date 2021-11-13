@@ -51,7 +51,8 @@ You can found in [here](https://github.com/lz118/RGBT-Salient-Object-Detection).
 python version: [here(CPU)](https://github.com/lartpang/PySODEvalToolkit) and [here(GPU)](https://github.com/zyjwuyan/SOD_Evaluation_Metrics)  matlab version:  [here(include weighted F)](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) and [here](http://dpfan.net/d3netbenchmark/)
 
 ## other SOD Summary
-**RGBD SOD Summary：** https://github.com/jiwei0921/SOD-CNNs-based-code-summary- and https://github.com/taozh2017/RGBD-SODsurvey
+**RGBD SOD Summary1：** https://github.com/jiwei0921/SOD-CNNs-based-code-summary-
+**RGBD SOD Summary2：** https://github.com/taozh2017/RGBD-SODsurvey
 **RGBT SOD Summary：** https://github.com/lz118/RGBT-Salient-Object-Detection
 
 ## RGB-T Semantic segmentation

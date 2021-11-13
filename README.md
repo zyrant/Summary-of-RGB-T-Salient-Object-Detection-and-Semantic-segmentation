@@ -1,5 +1,7 @@
 # Summary of RGB-T Salient Object Detection and Semantic segmentation
 
+Thanks for zyrant and jinfu0913
+
 Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <br> 
 (**Paper, Code, Dataset, Evaluation and more**). 
 

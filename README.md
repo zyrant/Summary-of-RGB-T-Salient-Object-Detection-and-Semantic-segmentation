@@ -42,8 +42,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation(**
 03 | **TCSVT** | CGFNet: Cross-Guided Fusion Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9493207)/[Code](https://github.com/wangjie0825/CGFNet)
 04 | **TCSVT** | Efficient Context-Guided Stacked Refinement Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9505635)/[Code](https://github.com/huofushuo/CSRNet)
 05 | **SPL** | TSFNet: Two-Stage Fusion Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9508840)/[Code]
-06 | **TETCI** | APNet: Adversarial Learning Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection
- | [Paper](https://ieeexplore.ieee.org/document/9583676)/[Code](https://github.com/zyrant/APNet)
+06 | **TETCI** | APNet: Adversarial Learning Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/9583676)/[Code](https://github.com/zyrant/APNet)
 :triangular_flag_on_post: 07 | **TCSVT** | SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection| [Paper](https://ieeexplore.ieee.org/document/9611276)/[Code]
 
 

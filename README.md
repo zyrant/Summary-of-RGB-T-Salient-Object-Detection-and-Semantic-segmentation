@@ -12,7 +12,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 
 ## Content:
 
-1. <a href="#RGB-T Salient Object Detection"> RGB-T SOD </a>
+1. <a href="#RGB-T Salient Object Detection"> RGB-T Salient Object Detection </a>
 2. <a href="#RGB-T Semantic segmentation"> RGB-T Semantic segmentation </a>
 3. <a href="#Dataset">  Dataset </a>
 4. <a href="#Evaluation"> Evaluation </a>
@@ -21,7 +21,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 
 --------------------------------------------------------------------------------------
 
-# RGB-T Salient Object Detection
+# RGB-T Salient Object Detection <a id="RGB-T Salient Object Detection" class="anchor" href="RGB-T Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 ## 2017       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 

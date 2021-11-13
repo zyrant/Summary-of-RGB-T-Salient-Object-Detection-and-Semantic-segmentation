@@ -70,7 +70,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation(**
 03 | **arxiv** | FEANet: Feature-Enhanced Attention Network for RGB-Thermal Real-time Semantic Segmentation | [Paper](https://arxiv.org/pdf/2110.08988.pdf)/Code
 
 ## Dataset
-**RGBT SOD Saliency Dataset(VT821,VT1000,VT5000)**    <br>   
+**RGBT SOD Saliency Dataset(VT821,VT1000,VT5000)**  
 You can found in [here](https://github.com/lz118/RGBT-Salient-Object-Detection).   <br>
 **RGBT Semantic segmentation Dataset(MFNet,PST900)** <br>
 You can found in [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) and [PST900](https://github.com/ShreyasSkandanS/pst900_thermal_rgb). <br>

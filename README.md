@@ -84,8 +84,8 @@ You can found in [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_mult
 
 ## Evaluation 
 **RGBT SOD Saliency Evaluation**  <br>
-python version: [here(CPU)](https://github.com/lartpang/PySODEvalToolkit) and [here(GPU)](https://github.com/zyjwuyan/SOD_Evaluation_Metrics)   <br>
-matlab version:  [here(include weighted F)](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) and [here](http://dpfan.net/d3netbenchmark/) <br>
+Python version: [here(CPU)](https://github.com/lartpang/PySODEvalToolkit) and [here(GPU)](https://github.com/zyjwuyan/SOD_Evaluation_Metrics)   <br>
+Matlab version:  [here(include weighted F)](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) and [here](http://dpfan.net/d3netbenchmark/) <br>
 **RGBT Semantic segmentation Evaluation**  <br>
 Recommend  the evaluation toolbox of [GMNet](https://github.com/Jinfu0913/GMNet) <br>
 

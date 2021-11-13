@@ -1,6 +1,6 @@
-# RGB-T-Salient-Object-Detection-Summary
+# Summary of RGB-T Salient Object Detection and Semantic segmentation
 
-Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation(**Paper and more**). 
+Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation(**Paper,Code,Dataset, Evaluation and more**). 
 
 --------------------------------------------------------------------------------------
 :running: **We will keep updating it.** :running:  
@@ -89,7 +89,12 @@ Recommend  the evaluation toolbox of [GMNet](https://github.com/Jinfu0913/GMNet)
 **RGBD SOD Summary2：** https://github.com/taozh2017/RGBD-SODsurvey <br>
 **RGBT SOD Summary：** https://github.com/lz118/RGBT-Salient-Object-Detection <br>
 
-**Thanks to the above authors for their excellent work！**
+# Acknowledgement
+The collection of this summary is thanks to [Zhun Li](https://github.com/lz118/RGBT-Salient-Object-Detection) and [jinfu Liu](https://github.com/Jinfu0913/GMNet).
+The summary template comes from [ji wei](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
+
+
+## Thanks to the above authors for their excellent work！
 
 
 

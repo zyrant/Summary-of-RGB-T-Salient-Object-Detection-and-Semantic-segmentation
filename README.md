@@ -6,7 +6,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
-🚩: **2021.11.12 Create the summary.** 
+🚩 **2021.11.12 Create the summary.** 
 
 --------------------------------------------------------------------------------------
 # RGB-T Salient Object Detection
@@ -104,7 +104,7 @@ The summary template comes from [ji wei](https://github.com/jiwei0921/SOD-CNNs-b
 
 --------------------------------------------------------------------------------------
 
-## Thanks to the above authors for their excellent work！
+## 🏳️‍🌈 Thanks to the above authors for their excellent work！
 
 
 

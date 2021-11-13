@@ -3,10 +3,8 @@
 Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation(**Paper and more**). 
 
 --------------------------------------------------------------------------------------
-
+:running: **We will keep updating it.** :running:  
 :heavy_exclamation_mark: **2021.11.12 create the summary**      
-
-:running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
   
 ## RGB-T-Salient-Object-Detection

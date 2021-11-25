@@ -55,7 +55,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 05 | **SPL** | TSFNet: Two-Stage Fusion Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9508840)/Code
 06 | **TETCI** | APNet: Adversarial Learning Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/9583676)/[Code](https://github.com/zyrant/APNet)
 :triangular_flag_on_post: 07 | **TIP** | Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/9454273)/[Code](https://github.com/lz118/Multi-interactive-Dual-decoder)
-:triangular_flag_on_post: 08 | **TCSVT** | SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection| [Paper](https://ieeexplore.ieee.org/document/9611276)/Code
+:triangular_flag_on_post: 08 | **TCSVT** | SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection| [Paper](https://ieeexplore.ieee.org/document/9611276)/[Code](https://github.com/liuzywen/SwinNet)
 
 --------------------------------------------------------------------------------------
 

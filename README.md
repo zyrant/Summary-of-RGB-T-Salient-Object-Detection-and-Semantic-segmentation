@@ -84,6 +84,8 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 :triangular_flag_on_post:02 | **CVPR** | ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_ABMDRNet_Adaptive-Weighted_Bi-Directional_Modality_Difference_Reduction_Network_for_RGB-T_Semantic_CVPR_2021_paper.pdf)/Code
 03 | **arxiv** | FEANet: Feature-Enhanced Attention Network for RGB-Thermal Real-time Semantic Segmentation | [Paper](https://arxiv.org/pdf/2110.08988.pdf)/Code
 04 | **Measurement** | Robust semantic segmentation based on RGB-thermal in variable lighting scenes | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224121010903)/Code
+:triangular_flag_on_post:05 | **AAAI** | Edge-aware guidance fusion network for RGB–thermal scene parsing | Paper/Code
+
 
 --------------------------------------------------------------------------------------
 

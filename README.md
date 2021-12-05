@@ -103,10 +103,10 @@ You can found in [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_mult
 
 # Evaluation <a id="Evaluation" class="Evaluation" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 **RGBT SOD Saliency Evaluation**  <br>
-Python version: [here(CPU)](https://github.com/lartpang/PySODEvalToolkit) and [here(GPU)](https://github.com/zyjwuyan/SOD_Evaluation_Metrics)   <br>
-Matlab version:  [here(include weighted F)](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) and [here](http://dpfan.net/d3netbenchmark/) <br>
+Python version: [here(CPU)](https://github.com/lartpang/PySODEvalToolkit) and [here(GPU)](https://github.com/zyjwuyan/SOD_Evaluation_Metrics).   <br>
+Matlab version:  [here(include weighted F)](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) and [here](http://dpfan.net/d3netbenchmark/). <br>
 **RGBT Semantic segmentation Evaluation**  <br>
-Recommend  the evaluation toolbox of [RTFNet](https://github.com/yuxiangsun/RTFNet) <br>
+Recommend  the evaluation toolbox of [RTFNet](https://github.com/yuxiangsun/RTFNet). <br>
 
 --------------------------------------------------------------------------------------
 

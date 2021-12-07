@@ -88,7 +88,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 ## 2022    
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post:01 | **AAAI** | Edge-aware guidance fusion network for RGB–thermal scene parsing | Paper/Code
+:triangular_flag_on_post:01 | **AAAI** | Edge-aware guidance fusion network for RGB–thermal scene parsing | Paper/[Code](https://github.com/ShaohuaDong2021/EGFNet)
 
 
 --------------------------------------------------------------------------------------

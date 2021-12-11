@@ -6,7 +6,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
-🚩 **2021.12.11 Add one TMM paper, one AAAI 2022 paper** 
+🚩 **2021.12.11 Add one TMM paper, one AAAI 2022 paper** <br> 
 🚩 **2021.11.12 Create the summary.** 
 
 --------------------------------------------------------------------------------------

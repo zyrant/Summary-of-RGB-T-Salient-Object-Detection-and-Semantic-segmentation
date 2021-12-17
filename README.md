@@ -6,7 +6,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
-🚩 **2021.12.18 RGBT Semantic segmentation: Add one Applied Intelligence paper(included one new dataset in paper)** <br>  
+🚩 **2021.12.18 RGBT Semantic segmentation: Add one Applied Intelligence paper(included one new dataset in paper)** 
 🚩 **2021.12.11 RGBT Semantic segmentation: Add one TMM paper, one AAAI 2022 paper** <br> 
 🚩 **2021.11.12 Create the summary.** 
 

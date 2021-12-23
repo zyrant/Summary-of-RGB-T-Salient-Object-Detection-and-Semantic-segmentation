@@ -88,6 +88,8 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 04 | **Measurement** | Robust semantic segmentation based on RGB-thermal in variable lighting scenes | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224121010903)/Code
 05 | **TMM** | MFFENet: Multiscale Feature Fusion and Enhancement Network for RGBThermal Urban Road Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/9447924)/[Code](https://wujiezhou.github.io/)
 06| **Applied Intelligence** | MMNet: Multi-modal multi-stage network for RGB-T image semantic segmentation | [Paper](https://link.springer.com/article/10.1007/s10489-021-02687-7)/Code
+07| **Neurocomputing** | CCAFFMNet: Dual-spectral semantic segmentation network with channel-coordinate attention feature fusion module | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221017331)/Code
+
 
 
 ## 2022    

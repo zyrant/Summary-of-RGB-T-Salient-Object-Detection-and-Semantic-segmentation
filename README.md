@@ -6,7 +6,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
-🚩 **2021.12.18 RGBT Semantic segmentation: Add one Applied Intelligence paper** <br>
+🚩 **2022.1.15 RGBT SOD and SS: Add some papers of 2021** <br>
 🚩 **2021.12.11 RGBT Semantic segmentation: Add one TMM paper, one AAAI 2022 paper** <br> 
 🚩 **2021.11.12 Create the summary.** 
 
@@ -58,6 +58,8 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 06 | **TETCI** | APNet: Adversarial Learning Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/9583676)/[Code](https://github.com/zyrant/APNet)
 :triangular_flag_on_post: 07 | **TIP** | Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/9454273)/[Code](https://github.com/lz118/Multi-interactive-Dual-decoder)
 :triangular_flag_on_post: 08 | **TCSVT** | SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection| [Paper](https://ieeexplore.ieee.org/document/9611276)/[Code](https://github.com/liuzywen/SwinNet)
+09 | **TCSVT** | Multi-graph Fusion and Learning for RGBT Image Saliency Detection| [Paper](https://ieeexplore.ieee.org/document/9389777)/Code
+10 | **CYBER** | Salient Target Detection in RGB-T Image based on Multi-level Semantic Information| [Paper](https://ieeexplore.ieee.org/document/9588280)/Code
 
 --------------------------------------------------------------------------------------
 
@@ -89,6 +91,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 05 | **TMM** | MFFENet: Multiscale Feature Fusion and Enhancement Network for RGBThermal Urban Road Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/9447924)/[Code](https://wujiezhou.github.io/)
 06| **Applied Intelligence** | MMNet: Multi-modal multi-stage network for RGB-T image semantic segmentation | [Paper](https://link.springer.com/article/10.1007/s10489-021-02687-7)/Code
 07| **Neurocomputing** | CCAFFMNet: Dual-spectral semantic segmentation network with channel-coordinate attention feature fusion module | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221017331)/Code
+08| **IROS** | HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images | [Paper](https://ieeexplore.ieee.org/abstract/document/9341192)/[Code](http://thermal.cs.uni-freiburg.de/)
 
 
 

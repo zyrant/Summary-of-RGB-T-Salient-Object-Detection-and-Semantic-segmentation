@@ -61,6 +61,11 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 09 | **TCSVT** | Multi-graph Fusion and Learning for RGBT Image Saliency Detection| [Paper](https://ieeexplore.ieee.org/document/9389777)/Code
 10 | **CYBER** | Salient Target Detection in RGB-T Image based on Multi-level Semantic Information| [Paper](https://ieeexplore.ieee.org/document/9588280)/Code
 
+## 2022    
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **Applied Intelligence** | RGB-T salient object detection via CNN feature and result saliency map fusion | [Paper](https://link.springer.com/article/10.1007/s10489-021-02984-1)/Code
+
 --------------------------------------------------------------------------------------
 
 # RGB-T Semantic segmentation <a id="RGB-T Semantic segmentation" class="anchor" href="RGB-T Semantic segmentation" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

@@ -6,6 +6,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
+🚩 **2022.3.19 RGBT SOD: Add one Neurocomputing paper.** <br>
 🚩 **2022.1.15 RGBT SOD and SS: Add some papers of 2021.** <br>
 🚩 **2021.12.11 RGBT Semantic segmentation: Add one TMM paper, one AAAI 2022 paper.** <br> 
 🚩 **2021.11.12 Create the summary.** 
@@ -65,6 +66,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **Applied Intelligence** | RGB-T salient object detection via CNN feature and result saliency map fusion | [Paper](https://link.springer.com/article/10.1007/s10489-021-02984-1)/Code
+02 | **Neurocomputing** | Multi-modal Interactive Attention and Dual Progressive Decoding Network for RGB-D/T Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222002971)/[Code](https://github.com/Liangyh18/MIA_DPD)
 
 --------------------------------------------------------------------------------------
 

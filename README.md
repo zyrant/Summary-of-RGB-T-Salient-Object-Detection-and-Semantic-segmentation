@@ -105,6 +105,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post:01 | **AAAI** | Edge-aware guidance fusion network for RGB–thermal scene parsing | [Paper](https://arxiv.org/abs/2112.05144)/[Code](https://github.com/ShaohuaDong2021/EGFNet)
+02 | **TIV** | MTANet: Multitask-Aware Network with Hierarchical Multimodal Fusion for RGB-T Urban Scene Understanding | [Paper](https://ieeexplore.ieee.org/document/9749834)/Code
 
 
 --------------------------------------------------------------------------------------

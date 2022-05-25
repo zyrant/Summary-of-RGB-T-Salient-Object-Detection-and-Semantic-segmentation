@@ -6,7 +6,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
-🚩 **2022.1.15 RGBT SOD: Add one paper; RGBT SS: Add two papers.** <br>
+🚩 **2022.5.25 RGBT SOD: Add one paper; RGBT SS: Add two papers.** <br>
 🚩 **2022.4.21 RGBT SOD: Add one TCSVT paper.** <br>
 🚩 **2022.3.19 RGBT SOD: Add one Neurocomputing paper.** <br>
 

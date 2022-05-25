@@ -67,7 +67,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 01 | **Applied Intelligence** | RGB-T salient object detection via CNN feature and result saliency map fusion | [Paper](https://link.springer.com/article/10.1007/s10489-021-02984-1)/Code
 02 | **Neurocomputing** | Multi-modal Interactive Attention and Dual Progressive Decoding Network for RGB-D/T Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222002971)/[Code](https://github.com/Liangyh18/MIA_DPD)
 02 | **TCSVT** | CGMDRNet: Cross-Guided Modality Difference Reduction Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9756028)/Code
-
+02 | **arixv** | Glass Segmentation with RGB-Thermal Image Pairs | [Paper]([https://ieeexplore.ieee.org/abstract/document/9756028](https://arxiv.org/abs/2204.05453))/[Code](https://github.com/Dong-Huo/RGB-T-Glass-Segmentation)
 
 --------------------------------------------------------------------------------------
 
@@ -108,7 +108,8 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post:01 | **AAAI** | Edge-aware guidance fusion network for RGB–thermal scene parsing | [Paper](https://arxiv.org/abs/2112.05144)/[Code](https://github.com/ShaohuaDong2021/EGFNet)
 02 | **TIV** | MTANet: Multitask-Aware Network with Hierarchical Multimodal Fusion for RGB-T Urban Scene Understanding | [Paper](https://ieeexplore.ieee.org/document/9749834)/[Code](https://github.com/ShaohuaDong2021/MTANet)
-
+:triangular_flag_on_post: 03 | **arixv** | CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers | [Paper](https://arxiv.org/pdf/2203.04838v2.pdf)/[Code](https://github.com/huaaaliu/rgbx_semantic_segmentation)
+03 | **arixv** | ARTSeg: Employing Attention for Thermal Images Semantic Segmentation | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-02375-0_27)/Code
 
 --------------------------------------------------------------------------------------
 

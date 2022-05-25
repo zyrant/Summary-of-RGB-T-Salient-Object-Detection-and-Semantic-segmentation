@@ -6,9 +6,9 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
+🚩 **2022.1.15 RGBT SOD: Add one paper; RGBT SS: Add two papers.** <br>
 🚩 **2022.4.21 RGBT SOD: Add one TCSVT paper.** <br>
 🚩 **2022.3.19 RGBT SOD: Add one Neurocomputing paper.** <br>
-🚩 **2022.1.15 RGBT SOD and SS: Add some papers of 2021.** <br>
 
 --------------------------------------------------------------------------------------
 
@@ -101,15 +101,13 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 07| **Neurocomputing** | CCAFFMNet: Dual-spectral semantic segmentation network with channel-coordinate attention feature fusion module | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221017331)/Code
 08| **IROS** | HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images | [Paper](https://ieeexplore.ieee.org/abstract/document/9341192)/[Code](http://thermal.cs.uni-freiburg.de/)
 
-
-
 ## 2022    
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post:01 | **AAAI** | Edge-aware guidance fusion network for RGB–thermal scene parsing | [Paper](https://arxiv.org/abs/2112.05144)/[Code](https://github.com/ShaohuaDong2021/EGFNet)
 02 | **TIV** | MTANet: Multitask-Aware Network with Hierarchical Multimodal Fusion for RGB-T Urban Scene Understanding | [Paper](https://ieeexplore.ieee.org/document/9749834)/[Code](https://github.com/ShaohuaDong2021/MTANet)
 :triangular_flag_on_post: 03 | **arixv** | CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers | [Paper](https://arxiv.org/pdf/2203.04838v2.pdf)/[Code](https://github.com/huaaaliu/rgbx_semantic_segmentation)
-03 | **arixv** | ARTSeg: Employing Attention for Thermal Images Semantic Segmentation | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-02375-0_27)/Code
+03 | **ACPR** | ARTSeg: Employing Attention for Thermal Images Semantic Segmentation | [Paper](https://arxiv.org/abs/2111.15257)/Code
 
 --------------------------------------------------------------------------------------
 

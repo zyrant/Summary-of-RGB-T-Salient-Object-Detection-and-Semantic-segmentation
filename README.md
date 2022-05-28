@@ -6,6 +6,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
+🚩 **2022.5.28 RGBT SOD: Add one TIP paper.** <br>
 🚩 **2022.5.25 RGBT SOD: Add one paper; RGBT SS: Add two papers.** <br>
 🚩 **2022.4.21 RGBT SOD: Add one TCSVT paper.** <br>
 🚩 **2022.3.19 RGBT SOD: Add one Neurocomputing paper.** <br>
@@ -66,8 +67,9 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 :-: | :-: | :-  | :-: 
 01 | **Applied Intelligence** | RGB-T salient object detection via CNN feature and result saliency map fusion | [Paper](https://link.springer.com/article/10.1007/s10489-021-02984-1)/Code
 02 | **Neurocomputing** | Multi-modal Interactive Attention and Dual Progressive Decoding Network for RGB-D/T Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222002971)/[Code](https://github.com/Liangyh18/MIA_DPD)
-02 | **TCSVT** | CGMDRNet: Cross-Guided Modality Difference Reduction Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9756028)/Code
-02 | **arixv** | Glass Segmentation with RGB-Thermal Image Pairs | [Paper](https://arxiv.org/abs/2204.05453)/[Code](https://github.com/Dong-Huo/RGB-T-Glass-Segmentation)
+03 | **TCSVT** | CGMDRNet: Cross-Guided Modality Difference Reduction Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9756028)/Code
+04 | **arixv** | Glass Segmentation with RGB-Thermal Image Pairs | [Paper](https://arxiv.org/abs/2204.05453)/[Code](https://github.com/Dong-Huo/RGB-T-Glass-Segmentation)
+05 | **TIP** | Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network | [Paper](https://ieeexplore.ieee.org/abstract/document/9779787)/Code
 
 --------------------------------------------------------------------------------------
 

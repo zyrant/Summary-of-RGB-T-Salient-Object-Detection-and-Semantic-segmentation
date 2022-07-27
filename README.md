@@ -6,10 +6,10 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
+🚩 **2022.7.27 RGBT SOD: Add one paper，RGBT SS: Add one paper.** <br>
 🚩 **2022.6.25 RGBT SOD: Add one TCSVT paper and one TIM paper.** <br>
 🚩 **2022.5.28 RGBT SOD: Add one TIP paper.** <br>
 🚩 **2022.5.25 RGBT SOD: Add one paper; RGBT SS: Add two papers.** <br>
-🚩 **2022.4.21 RGBT SOD: Add one TCSVT paper.** <br>
 
 --------------------------------------------------------------------------------------
 
@@ -74,6 +74,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 07 | **TCSVT** | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9801871)/[Code](https://git.openi.org.cn/OpenVision/CCFENet)
 08 | **EAAI** | Unidirectional RGB-T salient object detection with intertwined driving of encoding and fusion | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197622002743?casa_token=U7ht7JQv8I0AAAAA:qDCBrnwUB5vZGaE4veYfJnqwnvOfQiShCo_h5R13B_eEoqMdp0zj2Uec4lTusZjLS1rPxemxoiY)/Code
 09 | **MVA** | EAF-Net: an enhancement and aggregation–feedback network for RGB-T salient object detection | [Paper](https://link.springer.com/article/10.1007/s00138-022-01312-y)/Code
+09 | **arxiv** | Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection | [Paper](https://arxiv.org/abs/2207.03558)/[Code](https://github.com/jxr326/SwinMCNet)
 
 --------------------------------------------------------------------------------------
 
@@ -114,6 +115,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 02 | **TIV** | MTANet: Multitask-Aware Network with Hierarchical Multimodal Fusion for RGB-T Urban Scene Understanding | [Paper](https://ieeexplore.ieee.org/document/9749834)/[Code](https://github.com/ShaohuaDong2021/MTANet)
 :triangular_flag_on_post: 03 | **arixv** | CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers | [Paper](https://arxiv.org/pdf/2203.04838v2.pdf)/[Code](https://github.com/huaaaliu/rgbx_semantic_segmentation)
 03 | **ACPR** | ARTSeg: Employing Attention for Thermal Images Semantic Segmentation | [Paper](https://arxiv.org/abs/2111.15257)/Code
+04 | **Neurocomputing** | GCNet: Grid-Like Context-Aware Network for RGB-Thermal Semantic Segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222009006)/Code
 
 --------------------------------------------------------------------------------------
 

@@ -74,7 +74,9 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 07 | **TCSVT** | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9801871)/[Code](https://git.openi.org.cn/OpenVision/CCFENet)
 08 | **EAAI** | Unidirectional RGB-T salient object detection with intertwined driving of encoding and fusion | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197622002743?casa_token=U7ht7JQv8I0AAAAA:qDCBrnwUB5vZGaE4veYfJnqwnvOfQiShCo_h5R13B_eEoqMdp0zj2Uec4lTusZjLS1rPxemxoiY)/Code
 09 | **MVA** | EAF-Net: an enhancement and aggregation–feedback network for RGB-T salient object detection | [Paper](https://link.springer.com/article/10.1007/s00138-022-01312-y)/Code
-09 | **arxiv** | Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection | [Paper](https://arxiv.org/abs/2207.03558)/[Code](https://github.com/jxr326/SwinMCNet)
+11 | **arxiv** | Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection | [Paper](https://arxiv.org/abs/2207.03558)/[Code](https://github.com/jxr326/SwinMCNet)
+12 | **CVIU** | Enabling modality interactions for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S1077314222001047?casa_token=C76YSYF1K0sAAAAA:sdxNjSIR7xXcAt36D301rTrGYoqaKkMG42z2Uz7la0F675vHQo_BSQB94mZfXI_LsmX6fmvFaw)/Code
+13 | **Applied Intelligence** | Modal complementary fusion network for RGB-T salient object detection | [Paper](https://link.springer.com/article/10.1007/s10489-022-03950-1)/[Code](https://github.com/dotaball/MCFNet)
 
 --------------------------------------------------------------------------------------
 

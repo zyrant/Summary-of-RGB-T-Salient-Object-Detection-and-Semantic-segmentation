@@ -77,6 +77,8 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 11 | **arxiv** | Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection | [Paper](https://arxiv.org/abs/2207.03558)/[Code](https://github.com/jxr326/SwinMCNet)
 12 | **CVIU** | Enabling modality interactions for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S1077314222001047?casa_token=C76YSYF1K0sAAAAA:sdxNjSIR7xXcAt36D301rTrGYoqaKkMG42z2Uz7la0F675vHQo_BSQB94mZfXI_LsmX6fmvFaw)/Code
 13 | **Applied Intelligence** | Modal complementary fusion network for RGB-T salient object detection | [Paper](https://link.springer.com/article/10.1007/s10489-022-03950-1)/[Code](https://github.com/dotaball/MCFNet)
+14 | **TMM** | Does Thermal really always matter for RGB-T salient object detection | [Paper](https://arxiv.org/pdf/2210.04266.pdf)/[Code](https://rmcong.github.io/proj_TNet.html)
+
 
 --------------------------------------------------------------------------------------
 
@@ -118,7 +120,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 :triangular_flag_on_post: 03 | **arixv** | CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers | [Paper](https://arxiv.org/pdf/2203.04838v2.pdf)/[Code](https://github.com/huaaaliu/rgbx_semantic_segmentation)
 03 | **ACPR** | ARTSeg: Employing Attention for Thermal Images Semantic Segmentation | [Paper](https://arxiv.org/abs/2111.15257)/Code
 04 | **Neurocomputing** | GCNet: Grid-Like Context-Aware Network for RGB-Thermal Semantic Segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222009006)/Code
-
+05 | **TCSVT** | RGB-T Semantic Segmentation with Location, Activation, and Sharpening | [Paper](https://ieeexplore.ieee.org/document/9900351/)/[Code](https://github.com/MathLee/LASNet)
 --------------------------------------------------------------------------------------
 
 # Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

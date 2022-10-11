@@ -6,10 +6,10 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
+🚩 **2022.10.11 RGBT SOD: Add one TMM paper，RGBT SS: Add one TCSVT paper.** <br>
 🚩 **2022.7.27 RGBT SOD: Add one paper，RGBT SS: Add one paper.** <br>
 🚩 **2022.6.25 RGBT SOD: Add one TCSVT paper and one TIM paper.** <br>
 🚩 **2022.5.28 RGBT SOD: Add one TIP paper.** <br>
-🚩 **2022.5.25 RGBT SOD: Add one paper; RGBT SS: Add two papers.** <br>
 
 --------------------------------------------------------------------------------------
 

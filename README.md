@@ -57,8 +57,8 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 04 | **TCSVT** | Efficient Context-Guided Stacked Refinement Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9505635)/[Code](https://github.com/huofushuo/CSRNet)
 05 | **SPL** | TSFNet: Two-Stage Fusion Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9508840)/Code
 06 | **TETCI** | APNet: Adversarial Learning Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/9583676)/[Code](https://github.com/zyrant/APNet)
-:triangular_flag_on_post: 07 | **TIP** | Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/9454273)/[Code](https://github.com/lz118/Multi-interactive-Dual-decoder)
-:triangular_flag_on_post: 08 | **TCSVT** | SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection| [Paper](https://ieeexplore.ieee.org/document/9611276)/[Code](https://github.com/liuzywen/SwinNet)
+07 | **TIP** | Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/9454273)/[Code](https://github.com/lz118/Multi-interactive-Dual-decoder)
+08 | **TCSVT** | SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection| [Paper](https://ieeexplore.ieee.org/document/9611276)/[Code](https://github.com/liuzywen/SwinNet)
 09 | **TCSVT** | Multi-graph Fusion and Learning for RGBT Image Saliency Detection| [Paper](https://ieeexplore.ieee.org/document/9389777)/Code
 10 | **CYBER** | Salient Target Detection in RGB-T Image based on Multi-level Semantic Information| [Paper](https://ieeexplore.ieee.org/document/9588280)/Code
 

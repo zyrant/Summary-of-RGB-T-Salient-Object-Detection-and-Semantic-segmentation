@@ -78,7 +78,10 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 12 | **CVIU** | Enabling modality interactions for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S1077314222001047?casa_token=C76YSYF1K0sAAAAA:sdxNjSIR7xXcAt36D301rTrGYoqaKkMG42z2Uz7la0F675vHQo_BSQB94mZfXI_LsmX6fmvFaw)/Code
 13 | **Applied Intelligence** | Modal complementary fusion network for RGB-T salient object detection | [Paper](https://link.springer.com/article/10.1007/s10489-022-03950-1)/[Code](https://github.com/dotaball/MCFNet)
 14 | **TMM** | Does Thermal really always matter for RGB-T salient object detection | [Paper](https://arxiv.org/pdf/2210.04266.pdf)/[Code](https://rmcong.github.io/proj_TNet.html)
-
+15 | **Arxiv** | Interactive Context-Aware Network for RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2211.06097.pdf)/Code
+16 | **DSP** | MFENet: Multitype fusion and enhancement network for detecting salient objects in RGB-T images | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200422004444)/[Code](https://github.com/wujunyi1412/MFENet_DSP)
+17 | **PR** | Cross-modal co-feedback cellular automata for RGB-T saliency detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006185)/Code
+18 | **KBS** | Asymmetric cross-modal activation network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122011406)/[Code](https://github.com/xanxuso/ACMANet)
 
 --------------------------------------------------------------------------------------
 
@@ -121,6 +124,7 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 03 | **ACPR** | ARTSeg: Employing Attention for Thermal Images Semantic Segmentation | [Paper](https://arxiv.org/abs/2111.15257)/Code
 04 | **Neurocomputing** | GCNet: Grid-Like Context-Aware Network for RGB-Thermal Semantic Segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222009006)/Code
 05 | **TCSVT** | RGB-T Semantic Segmentation with Location, Activation, and Sharpening | [Paper](https://ieeexplore.ieee.org/document/9900351/)/[Code](https://github.com/MathLee/LASNet)
+06 | **SPL** | GEBNet: Graph-Enhancement Branch Network for RGB-T Scene Parsing | [Paper](https://ieeexplore.ieee.org/abstract/document/9937048/)/[Code](https://github.com/ShaohuaDong2021/GEBNet)
 --------------------------------------------------------------------------------------
 
 # Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

@@ -133,14 +133,22 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 **No.** | **Pub.** | **Title** | **Links** |
 :-: | :-: | :- | :-:
 :triangular_flag_on_post:01 | **CVPR** | Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting | [Paper](https://ieeexplore.ieee.org/document/9578312)/[Code](http://lingboliu.com/RGBT_Crowd_Counting.html)
-02 | **IC-NIDC** | I-MMCCN: Improved MMCCN for RGB-T Crowd Counting of Drone Images | [Paper](https://ieeexplore.ieee.org/document/9660586)/[Code]
+02 | **IC-NIDC** | I-MMCCN: Improved MMCCN for RGB-T Crowd Counting of Drone Images | [Paper](https://ieeexplore.ieee.org/document/9660586)/Code
+
+## 2022
+**No.** | **Pub.** | **Title** | **Links** |
+:-: | :-: | :- | :-:
+:triangular_flag_on_post:01 | **TITS** | DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/document/9889192)/[Code](https://github.com/panyi95/DEFNet)
+02 | **ISCAS** | TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/document/9937583)/Code
+03 | **arXiv** | MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting | [Paper](https://arxiv.org/abs/2208.06761)/Code
 --------------------------------------------------------------------------------------
 # Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 **RGBT SOD Saliency Dataset(VT821,VT1000,VT5000)**  
 You can found in [VT800,VT1000,VT5000](https://github.com/lz118/RGBT-Salient-Object-Detection).   <br>
 **RGBT Semantic segmentation Dataset(MFNet,PST900)** <br>
 You can found in [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) and [PST900](https://github.com/ShreyasSkandanS/pst900_thermal_rgb). <br>
-
+**RGBT Semantic segmentation Dataset(RGBT-CC,)** <br>
+You can found in [RBGT-CC](http://lingboliu.com/RGBT_Crowd_Counting.html)
 --------------------------------------------------------------------------------------
 
 # Evaluation <a id="Evaluation" class="Evaluation" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
@@ -149,7 +157,8 @@ Python version: [here(CPU)](https://github.com/lartpang/PySODEvalToolkit) and [h
 Matlab version:  [here(include weighted F)](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) and [here](http://dpfan.net/d3netbenchmark/). <br>
 **RGBT Semantic segmentation Evaluation**  <br>
 Recommend  the evaluation toolbox of [RTFNet](https://github.com/yuxiangsun/RTFNet) or [GMNet](https://github.com/Jinfu0913/GMNet). <br>
-
+**RGBT Crowd Counting** <br>
+Recommend the evaluation toolbox of [DEFNet](https://github.com/panyi95/DEFNet) or [BL+IADM](http://lingboliu.com/RGBT_Crowd_Counting.html)
 --------------------------------------------------------------------------------------
 
 # Other Summary <a id="Other Summary" class="Other Summary" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>  

@@ -1,6 +1,6 @@
-# Summary of RGB-T Salient Object Detection and Semantic segmentation and Crowd Counting
+# Summary of RGB-T Salient Object Detection, Semantic segmentation and Crowd Counting
 
-Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <br> 
+Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and Crowd Counting <br> 
 (**Paper, Code, Dataset, Evaluation and more**). 
 
 --------------------------------------------------------------------------------------
@@ -127,7 +127,13 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 05 | **TCSVT** | RGB-T Semantic Segmentation with Location, Activation, and Sharpening | [Paper](https://ieeexplore.ieee.org/document/9900351/)/[Code](https://github.com/MathLee/LASNet)
 06 | **SPL** | GEBNet: Graph-Enhancement Branch Network for RGB-T Scene Parsing | [Paper](https://ieeexplore.ieee.org/abstract/document/9937048/)/[Code](https://github.com/ShaohuaDong2021/GEBNet)
 --------------------------------------------------------------------------------------
+# RGB-T Crowd Counting <a id="RGB-T Crowd Counting" class="anchor" href="RGB-T Crowd Counting" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 
+## 2021
+**No.** | **Pub.** | **Title** | **Links** |
+:-: | :-: | :- | :-:
+:triangular_flag_on_post:01 | **CVPR** | Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting | [Paper](https://ieeexplore.ieee.org/document/9578312)/[Code](http://lingboliu.com/RGBT_Crowd_Counting.html)
+--------------------------------------------------------------------------------------
 # Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 **RGBT SOD Saliency Dataset(VT821,VT1000,VT5000)**  
 You can found in [VT800,VT1000,VT5000](https://github.com/lz118/RGBT-Salient-Object-Detection).   <br>

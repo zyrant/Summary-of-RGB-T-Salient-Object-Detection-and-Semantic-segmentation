@@ -133,6 +133,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 **No.** | **Pub.** | **Title** | **Links** |
 :-: | :-: | :- | :-:
 :triangular_flag_on_post:01 | **CVPR** | Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting | [Paper](https://ieeexplore.ieee.org/document/9578312)/[Code](http://lingboliu.com/RGBT_Crowd_Counting.html)
+02 | **IC-NIDC** | I-MMCCN: Improved MMCCN for RGB-T Crowd Counting of Drone Images | [Paper](https://ieeexplore.ieee.org/document/9660586)/[Code]
 --------------------------------------------------------------------------------------
 # Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 **RGBT SOD Saliency Dataset(VT821,VT1000,VT5000)**  

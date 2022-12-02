@@ -1,4 +1,4 @@
-# Summary of RGB-T Salient Object Detection and Semantic segmentation
+# Summary of RGB-T Salient Object Detection and Semantic segmentation and Crowd Counting
 
 Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <br> 
 (**Paper, Code, Dataset, Evaluation and more**). 
@@ -17,10 +17,11 @@ Provide a summary of RGB-T-Salient-Object-Detection and Semantic segmentation <b
 
 1. <a href="#RGB-T Salient Object Detection"> RGB-T Salient Object Detection </a>
 2. <a href="#RGB-T Semantic segmentation"> RGB-T Semantic segmentation </a>
-3. <a href="#Dataset">  Dataset </a>
-4. <a href="#Evaluation"> Evaluation </a>
-5. <a href="#Other Summary"> Other Summary </a>
-6. <a href="#Acknowledgement"> Acknowledgement </a>
+3. <a href="#RGB-T Crowd Counting"> RGB-T Crowd Counting </a>
+4. <a href="#Dataset">  Dataset </a>
+5. <a href="#Evaluation"> Evaluation </a>
+6. <a href="#Other Summary"> Other Summary </a>
+7. <a href="#Acknowledgement"> Acknowledgement </a>
 
 --------------------------------------------------------------------------------------
 

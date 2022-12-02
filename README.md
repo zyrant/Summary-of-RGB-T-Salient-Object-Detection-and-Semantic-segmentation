@@ -140,6 +140,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 :-: | :-: | :- | :-:
 :triangular_flag_on_post:01 | **TITS** | DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/document/9889192)/[Code](https://github.com/panyi95/DEFNet)
 02 | **ISCAS** | TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/document/9937583)/Code
+03 | **ACCV** | Spatio-channel Attention Blocks for Cross-modal Crowd Counting | [Paper](https://arxiv.org/pdf/2210.10392.pdf)/[Code](https://github.com/VCLLab/CSCA)
 
 --------------------------------------------------------------------------------------
 # Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

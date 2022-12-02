@@ -171,7 +171,7 @@ Recommend the evaluation toolbox of [DEFNet](https://github.com/panyi95/DEFNet) 
 --------------------------------------------------------------------------------------
 
 # Acknowledgement <a id="Acknowledgement" class="Acknowledgement" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-The collection of this summary is thanks to [Zhun Li](https://github.com/lz118/RGBT-Salient-Object-Detection) and [jinfu Liu](https://github.com/Jinfu0913/GMNet). <br>
+The collection of this summary is thanks to [Zhun Li](https://github.com/lz118/RGBT-Salient-Object-Detection) , [jinfu Liu](https://github.com/Jinfu0913/GMNet) and [Yi Pan](https://github.com/panyi95/DEFNet). <br>
 The summary template comes from [ji wei](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-).
 
 --------------------------------------------------------------------------------------

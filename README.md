@@ -140,7 +140,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 :-: | :-: | :- | :-:
 :triangular_flag_on_post:01 | **TITS** | DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/document/9889192)/[Code](https://github.com/panyi95/DEFNet)
 02 | **ISCAS** | TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/document/9937583)/Code
-03 | **arXiv** | MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting | [Paper](https://arxiv.org/abs/2208.06761)/Code
+
 --------------------------------------------------------------------------------------
 # Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 **RGBT SOD Saliency Dataset(VT821,VT1000,VT5000)**  

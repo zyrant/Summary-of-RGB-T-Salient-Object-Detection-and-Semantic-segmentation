@@ -148,7 +148,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 You can found in [VT800,VT1000,VT5000](https://github.com/lz118/RGBT-Salient-Object-Detection).   <br>
 **RGBT Semantic segmentation Dataset(MFNet,PST900)** <br>
 You can found in [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) and [PST900](https://github.com/ShreyasSkandanS/pst900_thermal_rgb). <br>
-**RGBT Semantic segmentation Dataset(RGBT-CC,)** <br>
+**RGBT Crowd Counting Dataset(RGBT-CC)** <br>
 You can found in [RBGT-CC](http://lingboliu.com/RGBT_Crowd_Counting.html)
 
 --------------------------------------------------------------------------------------

@@ -1,4 +1,8 @@
 # Summary of RGB-T Salient Object Detection, Semantic segmentation and Crowd Counting
+![-RGBT-red](https://user-images.githubusercontent.com/38373305/205479612-e61d11b4-6c3e-4eb0-8d19-2e7170eb7783.svg)
+![-Salient Object detection-green](https://user-images.githubusercontent.com/38373305/205479614-82129ebb-e5cd-4de5-9b3e-9ad046591fba.svg)
+![- Semantic segmentation-blue](https://user-images.githubusercontent.com/38373305/205479615-5113eb42-d5e1-4428-aeb4-628be67964ce.svg)
+![-Crowd Counting-yellow](https://user-images.githubusercontent.com/38373305/205479622-8112267b-48a3-477c-ae09-7d624e8b3308.svg)
 
 Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and Crowd Counting <br> 
 (**Paper, Code, Dataset, Evaluation and more**). 
@@ -6,6 +10,8 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
+![-NEW-brightgreen](https://user-images.githubusercontent.com/38373305/205479637-e57b3104-d469-415e-956c-2ba93c02df2e.svg)
+**2022.12.4 RGBT Crowd Counting could be found in this summary.**<br>
 🚩 **2022.10.11 RGBT SOD: Add one TMM paper，RGBT SS: Add one TCSVT paper.** <br>
 🚩 **2022.7.27 RGBT SOD: Add one paper，RGBT SS: Add one paper.** <br>
 🚩 **2022.6.25 RGBT SOD: Add one TCSVT paper and one TIM paper.** <br>

@@ -10,8 +10,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
-![-NEW-brightgreen](https://user-images.githubusercontent.com/38373305/205479637-e57b3104-d469-415e-956c-2ba93c02df2e.svg)
-**2022.12.4 RGBT Crowd Counting could be found in this summary.**<br>
+🚩**2022.12.4 Summary of RGBT Crowd Counting could be found here.**<br>
 🚩 **2022.10.11 RGBT SOD: Add one TMM paper，RGBT SS: Add one TCSVT paper.** <br>
 🚩 **2022.7.27 RGBT SOD: Add one paper，RGBT SS: Add one paper.** <br>
 🚩 **2022.6.25 RGBT SOD: Add one TCSVT paper and one TIM paper.** <br>

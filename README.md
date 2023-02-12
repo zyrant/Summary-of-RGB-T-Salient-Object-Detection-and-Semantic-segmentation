@@ -10,7 +10,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
-🚩**2023.2.3 RGBT SOD: Add two papers, RGBT SS: Add one paper**<br>
+🚩**2023.2.3 RGBT SOD: Add two papers, RGBT SS: Add one paper.**<br>
 🚩**2022.12.4 Summary of RGBT Crowd Counting could be found here.**<br>
 🚩 **2022.10.11 RGBT SOD: Add one TMM paper, RGBT SS: Add one TCSVT paper.** <br>
 🚩 **2022.7.27 RGBT SOD: Add one paper, RGBT SS: Add one paper.** <br>

@@ -10,7 +10,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
-🚩**2023.2.3 RGBT SOD: Add two papers, RGBT SS: Add one paper.**<br>
+🚩**2023.2.3 RGBT SOD: Add two papers, RGBT SS: Add two papers.**<br>
 🚩**2022.12.4 Summary of RGBT Crowd Counting could be found here.**<br>
 🚩 **2022.10.11 RGBT SOD: Add one TMM paper, RGBT SS: Add one TCSVT paper.** <br>
 🚩 **2022.7.27 RGBT SOD: Add one paper, RGBT SS: Add one paper.** <br>
@@ -95,6 +95,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 :-: | :-: | :-  | :-: 
 01 | **TCSVT** | Cross-Modality Double Bidirectional Interaction and Fusion Network for RGB-T Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/10032588)/Code
 02 | **TIP** | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/document/10042233)/[Code](https://github.com/zyrant/LSNet)
+
 --------------------------------------------------------------------------------------
 
 # RGB-T Semantic segmentation <a id="RGB-T Semantic segmentation" class="anchor" href="RGB-T Semantic segmentation" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
@@ -138,6 +139,11 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 05 | **TCSVT** | RGB-T Semantic Segmentation with Location, Activation, and Sharpening | [Paper](https://ieeexplore.ieee.org/document/9900351/)/[Code](https://github.com/MathLee/LASNet)
 06 | **SPL** | GEBNet: Graph-Enhancement Branch Network for RGB-T Scene Parsing | [Paper](https://ieeexplore.ieee.org/abstract/document/9937048/)/[Code](https://github.com/ShaohuaDong2021/GEBNet)
 07 | **TCSVT** | A Feature Divide-and-Conquer Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/document/9987529)/Code
+
+## 2023  
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **TITS** | Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/10041960)/Code
 
 --------------------------------------------------------------------------------------
 # RGB-T Crowd Counting <a id="RGB-T Crowd Counting" class="anchor" href="RGB-T Crowd Counting" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

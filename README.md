@@ -10,9 +10,10 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
+🚩**2023.2.3 RGBT SOD: Add two papers, RGBT SS: Add one paper**<br>
 🚩**2022.12.4 Summary of RGBT Crowd Counting could be found here.**<br>
-🚩 **2022.10.11 RGBT SOD: Add one TMM paper，RGBT SS: Add one TCSVT paper.** <br>
-🚩 **2022.7.27 RGBT SOD: Add one paper，RGBT SS: Add one paper.** <br>
+🚩 **2022.10.11 RGBT SOD: Add one TMM paper, RGBT SS: Add one TCSVT paper.** <br>
+🚩 **2022.7.27 RGBT SOD: Add one paper, RGBT SS: Add one paper.** <br>
 🚩 **2022.6.25 RGBT SOD: Add one TCSVT paper and one TIM paper.** <br>
 🚩 **2022.5.28 RGBT SOD: Add one TIP paper.** <br>
 
@@ -93,7 +94,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **TCSVT** | Cross-Modality Double Bidirectional Interaction and Fusion Network for RGB-T Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/10032588)/Code
-02 | **TIP** | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/document/10042233)/[Code](https://github.com/zyrant/LSNet)
+:triangular_flag_on_post: 02 | **TIP** | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/document/10042233)/[Code](https://github.com/zyrant/LSNet)
 --------------------------------------------------------------------------------------
 
 # RGB-T Semantic segmentation <a id="RGB-T Semantic segmentation" class="anchor" href="RGB-T Semantic segmentation" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

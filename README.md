@@ -136,6 +136,8 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 04 | **Neurocomputing** | GCNet: Grid-Like Context-Aware Network for RGB-Thermal Semantic Segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222009006)/Code
 05 | **TCSVT** | RGB-T Semantic Segmentation with Location, Activation, and Sharpening | [Paper](https://ieeexplore.ieee.org/document/9900351/)/[Code](https://github.com/MathLee/LASNet)
 06 | **SPL** | GEBNet: Graph-Enhancement Branch Network for RGB-T Scene Parsing | [Paper](https://ieeexplore.ieee.org/abstract/document/9937048/)/[Code](https://github.com/ShaohuaDong2021/GEBNet)
+07 | **TCSVT** | A Feature Divide-and-Conquer Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/document/9987529)/Code
+
 --------------------------------------------------------------------------------------
 # RGB-T Crowd Counting <a id="RGB-T Crowd Counting" class="anchor" href="RGB-T Crowd Counting" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 

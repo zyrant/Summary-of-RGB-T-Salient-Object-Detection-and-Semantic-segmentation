@@ -10,6 +10,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
+🚩**2023.5.8 RGBT SOD/SS/CC: Add one RAL paper.**<br>
 🚩**2023.2.3 RGBT SOD: Add one ICME paper.**<br>
 🚩**2023.2.3 RGBT SOD: Add two papers, RGBT SS: Add two papers.**<br>
 🚩**2022.12.4 Summary of RGBT Crowd Counting could be found here.**<br>
@@ -95,8 +96,8 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 :-: | :-: | :-  | :-: 
 01 | **TCSVT** | Cross-Modality Double Bidirectional Interaction and Fusion Network for RGB-T Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/10032588)/Code
 02 | **TIP** | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/document/10042233)/[Code](https://github.com/zyrant/LSNet)
-02 | **ICME** | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2303.09733)/[Code](https://github.com/liuzywen/RGBTScribble-ICME2023)
-
+03 | **ICME** | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2303.09733)/[Code](https://github.com/liuzywen/RGBTScribble-ICME2023)
+04 | **RAL** | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Code](https://github.com/freeformrobotics/eaefnet)
 --------------------------------------------------------------------------------------
 
 # RGB-T Semantic segmentation <a id="RGB-T Semantic segmentation" class="anchor" href="RGB-T Semantic segmentation" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
@@ -145,6 +146,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **TITS** | Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/10041960)/Code
+02 | **RAL** | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Code](https://github.com/freeformrobotics/eaefnet)
 
 --------------------------------------------------------------------------------------
 # RGB-T Crowd Counting <a id="RGB-T Crowd Counting" class="anchor" href="RGB-T Crowd Counting" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
@@ -161,6 +163,12 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 :triangular_flag_on_post:01 | **TITS** | DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/document/9889192)/[Code](https://github.com/panyi95/DEFNet)
 02 | **ISCAS** | TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/document/9937583)/Code
 03 | **ACCV** | Spatio-channel Attention Blocks for Cross-modal Crowd Counting | [Paper](https://arxiv.org/pdf/2210.10392.pdf)/[Code](https://github.com/VCLLab/CSCA)
+
+## 2023
+**No.** | **Pub.** | **Title** | **Links** |
+:-: | :-: | :- | :-:
+01 | **RAL** | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Code](https://github.com/freeformrobotics/eaefnet)
+
 
 --------------------------------------------------------------------------------------
 # Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

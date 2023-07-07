@@ -157,7 +157,8 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 :-: | :-: | :-  | :-: 
 01 | **TITS** | Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/10041960)/Code
 02 | **RAL** | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Code](https://github.com/freeformrobotics/eaefnet)
-02 | **PR** | Complementarity-aware cross-modal feature fusion network for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322003624)/Code
+03 | **PR** | Complementarity-aware cross-modal feature fusion network for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322003624)/Code
+04 | **TCSVT** | MMSMCNet: Modal Memory Sharing and Morphological Complementary Networks for RGB-T Urban Scene Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10123009)/[Code](https://github.com/2021nihao/MMSMCNet)
 
 --------------------------------------------------------------------------------------
 # RGB-T Crowd Counting <a id="RGB-T Crowd Counting" class="anchor" href="RGB-T Crowd Counting" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

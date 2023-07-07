@@ -158,6 +158,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 :-: | :-: | :-  | :-: 
 01 | **TITS** | Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/10041960)/Code
 02 | **RAL** | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Code](https://github.com/freeformrobotics/eaefnet)
+02 | **PR** | Complementarity-aware cross-modal feature fusion network for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322003624)/Code
 
 --------------------------------------------------------------------------------------
 # RGB-T Crowd Counting <a id="RGB-T Crowd Counting" class="anchor" href="RGB-T Crowd Counting" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
@@ -179,7 +180,6 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 **No.** | **Pub.** | **Title** | **Links** |
 :-: | :-: | :- | :-:
 01 | **RAL** | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Code](https://github.com/freeformrobotics/eaefnet)
-02 | **PR** | Complementarity-aware cross-modal feature fusion network for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322003624)/Code
 
 --------------------------------------------------------------------------------------
 # Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

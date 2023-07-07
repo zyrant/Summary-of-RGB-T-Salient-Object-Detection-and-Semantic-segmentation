@@ -102,7 +102,6 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 07 | **Neurocomputing** | Feature aggregation with transformer for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223004526)/[Code](https://github.com/ELOESZHANG/FANet)
 08 | **Neurocomputing** | MENet: Lightweight multimodality enhancement network for detecting salient objects in RGB-thermal images | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223000358)/Code
 09 | **KBS** | Three-stream interaction decoder network for RGB-thermal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122011005)/[Code](https://github.com/huofushuo/TIDNet)
-10 | **TIM** | Real-Time One-Stream Semantic-Guided Refinement Network for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9803225)/[Code](https://github.com/huofushuo/OSRNet)
 11 | **TIP** | Position-Aware Relation Learning for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10113883)/Code
 11 | **TCSVT** | Multiple Graph Affinity Interactive Network and a Variable Illumination Dataset for RGBT Image Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10003255)/[Code](https://github.com/huanglm-me/VI-RGBT1500)
 12 | **TIP** | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10015667)/[Code](https://github.com/lartpang/caver)

@@ -10,13 +10,12 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
-🚩**2023.5.8 RGBT SOD/SS/CC: Add one RAL paper.**<br>
-🚩**2023.2.3 RGBT SOD: Add one ICME paper.**<br>
-🚩**2023.2.3 RGBT SOD: Add two papers, RGBT SS: Add two papers.**<br>
-🚩**2022.12.4 Summary of RGBT Crowd Counting could be found here.**<br>
-🚩 **2022.10.11 RGBT SOD: Add one TMM paper, RGBT SS: Add one TCSVT paper.** <br>
-🚩 **2022.7.27 RGBT SOD: Add one paper, RGBT SS: Add one paper.** <br>
-🚩 **2022.6.25 RGBT SOD: Add one TCSVT paper and one TIM paper.** <br>
+🚩**2023.7.7 Add some representative papers from the first half of 2023.** <br>
+🚩**2023.5.8 RGBT SOD/SS/CC: Add one RAL paper.** <br>
+🚩**2023.2.3 RGBT SOD: Add one ICME paper.** <br>
+🚩**2023.2.3 RGBT SOD: Add two papers, RGBT SS: Add two papers.** <br>
+🚩**2022.12.4 Summary of RGBT Crowd Counting could be found here.** <br>
+
 
 --------------------------------------------------------------------------------------
 
@@ -98,6 +97,18 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 02 | **TIP** | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/document/10042233)/[Code](https://github.com/zyrant/LSNet)
 03 | **ICME** | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2303.09733)/[Code](https://github.com/liuzywen/RGBTScribble-ICME2023)
 04 | **RAL** | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Code](https://github.com/freeformrobotics/eaefnet)
+05 | **EAAI** | Thermal images-aware guided early fusion network for cross-illumination RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197622006303)/[Code](https://github.com/VDT-2048/TAGFNet)
+06 | **TMM** | MFFNet: Multi-modal Feature Fusion Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10171982)/Code
+07 | **Neurocomputing** | Feature aggregation with transformer for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223004526)/[Code](https://github.com/ELOESZHANG/FANet)
+08 | **Neurocomputing** | MENet: Lightweight multimodality enhancement network for detecting salient objects in RGB-thermal images | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223000358)/Code
+09 | **KBS** | Three-stream interaction decoder network for RGB-thermal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122011005)/[Code](https://github.com/huofushuo/TIDNet)
+10 | **TIM** | Real-Time One-Stream Semantic-Guided Refinement Network for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9803225)/[Code](https://github.com/huofushuo/OSRNet)
+11 | **TIP** | Position-Aware Relation Learning for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10113883)/Code
+11 | **TCSVT** | Multiple Graph Affinity Interactive Network and a Variable Illumination Dataset for RGBT Image Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10003255)/[Code](https://github.com/huanglm-me/VI-RGBT1500)
+12 | **TIP** | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10015667)/[Code](https://github.com/lartpang/caver)
+13 | **PR** | Cross-modal co-feedback cellular automata for RGB-T saliency detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006185)/Code
+13 | **TIP** | WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10127616)/[Code](https://github.com/nowander/WaveNe)
+
 --------------------------------------------------------------------------------------
 
 # RGB-T Semantic segmentation <a id="RGB-T Semantic segmentation" class="anchor" href="RGB-T Semantic segmentation" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
@@ -168,7 +179,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 **No.** | **Pub.** | **Title** | **Links** |
 :-: | :-: | :- | :-:
 01 | **RAL** | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Code](https://github.com/freeformrobotics/eaefnet)
-
+02 | **PR** | Complementarity-aware cross-modal feature fusion network for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322003624)/Code
 
 --------------------------------------------------------------------------------------
 # Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

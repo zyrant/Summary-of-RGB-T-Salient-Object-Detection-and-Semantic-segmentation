@@ -168,7 +168,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 08 | **arxiv** | Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning | [Paper](https://arxiv.org/abs/2312.00360)/[Code](https://github.com/ShaohuaDong2021/DPLNet)
 08 | **TITS** | A RGB-Thermal Image Segmentation Method Based on Parameter Sharing and Attention Fusion for Safe Autonomous Driving | [Paper](https://ieeexplore.ieee.org/abstract/document/10337777)/Code
 08 | **GRSL** | UTFNet: Uncertainty-Guided Trustworthy Fusion Network for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10273407)/[Code](https://github.com/KustTeamWQW/UTFNet)
-08 | **TTM** | SFAF-MA: Spatial Feature Aggregation and Fusion With Modality Adaptation for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10103760)/[Code](https://github.com/hexunjie/SFAF-MA)
+08 | **TIM** | SFAF-MA: Spatial Feature Aggregation and Fusion With Modality Adaptation for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10103760)/[Code](https://github.com/hexunjie/SFAF-MA)
 08 | **TIV** | On Exploring Shape and Semantic Enhancements for RGB-X Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10185113)/[Code](https://github.com/HenonBamboo/SASEM)
 
 --------------------------------------------------------------------------------------

@@ -110,7 +110,6 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 17 | **ACM MM** | Saliency Prototype for RGB-D and RGB-T Salient Object Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612466)/[Code](https://github.com/ZZ2490/SPNet)
 18 | **PR** | Frequency-aware feature aggregation network with dual-task consistency for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323007409)/Code
 18 | **arxiv** | Unified-modal Salient Object Detection via Adaptive Prompt Learning | [Paper](https://arxiv.org/abs/2311.16835)/Code
-19 | **NN** | MSEDNet: Multi-scale fusion and edge-supervised network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023007384?fr=RR-2&ref=pdf_download&rr=83a5a6ab69fc2669)/[Code](https://github.com/Zhou-wy/MSEDNet)
 
 --------------------------------------------------------------------------------------
 

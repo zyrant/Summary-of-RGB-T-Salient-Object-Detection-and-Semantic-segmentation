@@ -174,7 +174,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 ## 2024   
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **TMM** | Context-Aware Interaction Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10379106)/[Code](https://github.com/YingLv1106/CAINet)
+01 | **TMM** | Context-Aware Interaction Network for RGB-T Semantic Segmentation  | [Paper](https://ieeexplore.ieee.org/abstract/document/10379106)/[Code](https://github.com/YingLv1106/CAINet)
 
 --------------------------------------------------------------------------------------
 # RGB-T Crowd Counting <a id="RGB-T Crowd Counting" class="anchor" href="RGB-T Crowd Counting" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

@@ -111,6 +111,11 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 18 | **PR** | Frequency-aware feature aggregation network with dual-task consistency for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323007409)/Code
 18 | **arxiv** | Unified-modal Salient Object Detection via Adaptive Prompt Learning | [Paper](https://arxiv.org/abs/2311.16835)/Code
 
+## 2024   
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **TMM** | Context-Aware Interaction Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10379106)/[Code](https://github.com/YingLv1106/CAINet)
+
 --------------------------------------------------------------------------------------
 
 # RGB-T Semantic segmentation <a id="RGB-T Semantic segmentation" class="anchor" href="RGB-T Semantic segmentation" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

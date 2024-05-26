@@ -186,7 +186,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 03 | **Neurocomputing** | Residual spatial fusion network for RGB-thermal semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231224006842)/Code
 04 | **Neurocomputing** | DHFNet: Decoupled Hierarchical Fusion Network for RGB-T dense prediction tasks | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231224003655)/[Code](https://github.com/donggaomu/DHFNet)
 05 | **TIV** | Multi-branch Differential Bidirectional Fusion Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10463157)/Code
-05 | **AAAI** | Prompting Multi-Modal Image Segmentation with Semantic Grouping | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27981)/Code
+06 | **AAAI** | Prompting Multi-Modal Image Segmentation with Semantic Grouping | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27981)/Code
 
 --------------------------------------------------------------------------------------
 # RGB-T Crowd Counting <a id="RGB-T Crowd Counting" class="anchor" href="RGB-T Crowd Counting" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

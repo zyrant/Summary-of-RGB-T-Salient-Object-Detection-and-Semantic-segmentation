@@ -10,10 +10,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 --------------------------------------------------------------------------------------
 
 :running: **keep updating.** :running:  
-🚩**2023.12.21 Add some papers.** <br>
-🚩**2023.9.28 RGBT SOD: Add one paper, RGBT SS: Add three papers.** <br>
-🚩**2023.7.7 Add some representative papers from the first half of 2023.** <br>
-🚩**2023.5.8 RGBT SOD/SS/CC: Add one RAL paper.** <br>
+🚩**2024.5.26 Update.** <br>
 
 --------------------------------------------------------------------------------------
 
@@ -109,7 +106,17 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 16 | **arxiv** | All in One: RGB, RGB-D, and RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2311.14746)/Code
 17 | **ACM MM** | Saliency Prototype for RGB-D and RGB-T Salient Object Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612466)/[Code](https://github.com/ZZ2490/SPNet)
 18 | **PR** | Frequency-aware feature aggregation network with dual-task consistency for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323007409)/Code
-18 | **arxiv** | Unified-modal Salient Object Detection via Adaptive Prompt Learning | [Paper](https://arxiv.org/abs/2311.16835)/Code
+19 | **arxiv** | Unified-modal Salient Object Detection via Adaptive Prompt Learning | [Paper](https://arxiv.org/abs/2311.16835)/Code
+
+## 2024    
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+1 | **NN** | Salient object detection in low-light RGB-T scene via spatial-frequency cues mining | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024003307)/Code
+2 | **NN** | MSEDNet: Multi-scale fusion and edge-supervised network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007384)/[Code](https://github.com/Zhou-wy/MSEDNet)
+3 | **TIP** | Quality-Aware Selective Fusion Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10516304)/[Code](https://github.com/Lx-Bao/QSFNet)
+4 | **TCSVT** | Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10464332)/Code
+5 | **NN** | UTDNet: A unified triplet decoder network for multimodal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006755)/Code
+6 | **PR** | TMNet: Triple-modal interaction encoder and multi-scale fusion decoder network for V-D-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323007719)/Code
 
 --------------------------------------------------------------------------------------
 
@@ -175,6 +182,11 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **TMM** | Context-Aware Interaction Network for RGB-T Semantic Segmentation  | [Paper](https://ieeexplore.ieee.org/abstract/document/10379106)/[Code](https://github.com/YingLv1106/CAINet)
+02 | **PR** | Region-adaptive and context-complementary cross modulation for RGB-T semantic segmentation  | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323007896)/Code
+03 | **Neurocomputing** | Residual spatial fusion network for RGB-thermal semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231224006842)/Code
+04 | **Neurocomputing** | DHFNet: Decoupled Hierarchical Fusion Network for RGB-T dense prediction tasks | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231224003655)/[Code](https://github.com/donggaomu/DHFNet)
+05 | **TIV** | Multi-branch Differential Bidirectional Fusion Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10463157)/Code
+05 | **AAAI** | Prompting Multi-Modal Image Segmentation with Semantic Grouping | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27981)/Code
 
 --------------------------------------------------------------------------------------
 # RGB-T Crowd Counting <a id="RGB-T Crowd Counting" class="anchor" href="RGB-T Crowd Counting" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

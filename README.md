@@ -119,7 +119,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 10| **TCE** | Transformer-Based Cross-Modal Integration Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10504918)/[Code](https://github.com/lvchengtao/TCINet)
 11| **TMM** | Alignment-Free RGBT Salient Object Detection: Semantics-Guided Asymmetric Correlation Network and a Unified Benchmark | [Paper](https://ieeexplore.ieee.org/abstract/document/10551543)/Code
 12| **TIM** | RGB-T Saliency Detection Based on Multiscale Modal Reasoning Interaction | [Paper](https://ieeexplore.ieee.org/abstract/document/10638515)/Code
-13| **TPAMI** | Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024003307)/[Code](https://cser-tang-hao.github.io/contrinet.html)
+13| **TPAMI** | Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10778650)/[Code](https://cser-tang-hao.github.io/contrinet.html)
 
 --------------------------------------------------------------------------------------
 

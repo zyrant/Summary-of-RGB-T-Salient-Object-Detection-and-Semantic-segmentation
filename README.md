@@ -8,10 +8,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 (**Paper, Code, Dataset, Evaluation and more**). 
 
 --------------------------------------------------------------------------------------
-
-:running: **keep updating.** :running:  
-🚩**2024.5.26 Update.** <br>
-
+🚩**2024.12.10 Update.** <br>
 --------------------------------------------------------------------------------------
 
 ## Content:
@@ -111,12 +108,18 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 ## 2024    
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-1 | **NN** | Salient object detection in low-light RGB-T scene via spatial-frequency cues mining | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024003307)/Code
-2 | **NN** | MSEDNet: Multi-scale fusion and edge-supervised network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007384)/[Code](https://github.com/Zhou-wy/MSEDNet)
-3 | **TIP** | Quality-Aware Selective Fusion Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10516304)/[Code](https://github.com/Lx-Bao/QSFNet)
-4 | **TCSVT** | Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10464332)/Code
-5 | **NN** | UTDNet: A unified triplet decoder network for multimodal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006755)/Code
-6 | **PR** | TMNet: Triple-modal interaction encoder and multi-scale fusion decoder network for V-D-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323007719)/Code
+01 | **NN** | Salient object detection in low-light RGB-T scene via spatial-frequency cues mining | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024003307)/Code
+02 | **NN** | MSEDNet: Multi-scale fusion and edge-supervised network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007384)/[Code](https://github.com/Zhou-wy/MSEDNet)
+03 | **TIP** | Quality-Aware Selective Fusion Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10516304)/[Code](https://github.com/Lx-Bao/QSFNet)
+04 | **TCSVT** | Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10464332)/Code
+05 | **NN** | UTDNet: A unified triplet decoder network for multimodal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006755)/Code
+06 | **PR** | TMNet: Triple-modal interaction encoder and multi-scale fusion decoder network for V-D-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323007719)/Code
+07 | **KBS** | PATNet: Patch-to-pixel attention-aware transformer network for RGB-D and RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124002326)/[Code](https://github.com/LitterMa-820/PATNet)
+09 | **ESWA** | CAFCNet: Cross-modality asymmetric feature complement network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424000873)/Code
+10| **TCE** | Transformer-Based Cross-Modal Integration Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10504918)/[Code](https://github.com/lvchengtao/TCINet)
+11| **TMM** | Alignment-Free RGBT Salient Object Detection: Semantics-Guided Asymmetric Correlation Network and a Unified Benchmark | [Paper](https://ieeexplore.ieee.org/abstract/document/10551543)/Code
+12| **TIM** | RGB-T Saliency Detection Based on Multiscale Modal Reasoning Interaction | [Paper](https://ieeexplore.ieee.org/abstract/document/10638515)/Code
+13| **TPAMI** | Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024003307)/[Code](https://cser-tang-hao.github.io/contrinet.html)
 
 --------------------------------------------------------------------------------------
 
@@ -187,6 +190,12 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 04 | **Neurocomputing** | DHFNet: Decoupled Hierarchical Fusion Network for RGB-T dense prediction tasks | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231224003655)/[Code](https://github.com/donggaomu/DHFNet)
 05 | **TIV** | Multi-branch Differential Bidirectional Fusion Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10463157)/Code
 06 | **AAAI** | Prompting Multi-Modal Image Segmentation with Semantic Grouping | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27981)/Code
+07 | **RAL** | Temporal Consistency for RGB-Thermal Data-Based Semantic Scene Understanding | [Paper](https://ieeexplore.ieee.org/abstract/document/10675452)/Code
+08 | **TIP** | RegSeg: An End-to-End Network for Multimodal RGB-Thermal Registration and Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10766355)/Code
+09 | **TIV** | MGSGNet-S*: Multilayer Guided Semantic Graph Network via Knowledge Distillation for RGB-Thermal Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/abstract/document/10669814)/[Code](https://github.com/Tortoisewhp/MGSGNet)
+10 | **TCSVT** | MDNet: Mamba-Effective Diffusion-Distillation Network for RGB-Thermal Urban Dense Prediction | [Paper](https://ieeexplore.ieee.org/abstract/document/10770251)/[Code](https://github.com/Tortoisewhp/MDNet)
+11 | **ECCV** | Open-Vocabulary RGB-Thermal Semantic Segmentation | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_18)/[Code](https://github.com/SXDR/OpenRSS)
+12 | **ICRA** | Complementary Random Masking for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10611200)/[Code](https://github.com/UkcheolShin/CRM_RGBTSeg)
 
 --------------------------------------------------------------------------------------
 # RGB-T Crowd Counting <a id="RGB-T Crowd Counting" class="anchor" href="RGB-T Crowd Counting" aria-hidden="true"><span class="octicon octicon-link"></span></a>    

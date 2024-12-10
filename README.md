@@ -196,6 +196,7 @@ Provide a summary of RGB-T-Salient-Object-Detection, Semantic segmentation and C
 10 | **TCSVT** | MDNet: Mamba-Effective Diffusion-Distillation Network for RGB-Thermal Urban Dense Prediction | [Paper](https://ieeexplore.ieee.org/abstract/document/10770251)/[Code](https://github.com/Tortoisewhp/MDNet)
 11 | **ECCV** | Open-Vocabulary RGB-Thermal Semantic Segmentation | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_18)/[Code](https://github.com/SXDR/OpenRSS)
 12 | **ICRA** | Complementary Random Masking for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10611200)/[Code](https://github.com/UkcheolShin/CRM_RGBTSeg)
+13| **KBS** | Contrastive learning-based knowledge distillation for RGB-thermal urban scene semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124002235)/[Code](https://github.com/xiaodonguo/CLNet)
 
 --------------------------------------------------------------------------------------
 # RGB-T Crowd Counting <a id="RGB-T Crowd Counting" class="anchor" href="RGB-T Crowd Counting" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
